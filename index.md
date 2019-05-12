@@ -9,7 +9,7 @@ Email: sli2232 AT uwo.ca
 ### Biography
 I am currently a Master student at Computing Science Department of Western University, and I will graduate in Sep. 2019.
 
-I was major in Neuroscience prior transferring to Computer Science at University of Science and Technology of China (https://en.ustc.edu.cn/).
+I was major in Neuroscience prior transferring to Computer Science at [Interna Journal of Operational Research](https://en.ustc.edu.cn/).
 
 ### Programming Skills
 Programming Language: Python, Java, Matlab, R, SQL.
@@ -32,7 +32,7 @@ Programming Language: Python, Java, Matlab, R, SQL.
     + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf),  [source code](./posts/OR/scp.zip).
 
 ### Other Experience
-- Reviewer of [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research/)
+- Assistant in [Interna Journal of Operational Research](https://isa.ustc.edu.cn/xs/main.asp)
    - I was recongnized as an outstanding reviewer, [certificate](OutstandingReviewerEJOR.pdf).
 - PC member [IJCAI-ECAI 2018](https://www.ijcai-18.org/).
    - I was recongnized as a [distinguished reviewer](https://www.ijcai-18.org/distinguished-members/).  
