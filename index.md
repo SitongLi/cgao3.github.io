@@ -9,7 +9,7 @@ Email: sli2232 AT uwo.ca
 ### Biography
 I am currently a Master student at Computing Science Department of Western University, and I will graduate in Sep. 2019.
 
-I was major in Neuroscience prior transferring to Computer Science at [Interna Journal of Operational Research](https://en.ustc.edu.cn/).
+I was major in Neuroscience prior transferring to Computer Science at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Programming Skills
 Programming Language: Python, Java, Matlab, R, SQL.
