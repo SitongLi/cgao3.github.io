@@ -19,14 +19,9 @@ I have a wide interest in various aspects of Artificial Intelligence and Operati
 
 ### Programming Skills
 Programming Language: Python, Java, Matlab, R, SQL.
-Tools: Apache Hadoop, MongoDB, Kiabana, SPSS, Adode Illustrator, Origin.
-Interests: Algorithm, Running.
-Mathematics: Probability, Linear Algebra, Calculus, Statistics, Stochastic Process.
 
-### Competition Awards
- - 2017 Computer Olympiad, Hex Tournament **Champion**. 
- - 2018 Computer Olympiad, Hex Tournament **Champion**. 
- - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), **top 2 learning agents**, prized with one NVIDIA V GPU (32GB CEO Edition), worked done as a part-time intern at Borealis AI at Edmonton.  
+### Tools
+
 
 ### Publications 
 
