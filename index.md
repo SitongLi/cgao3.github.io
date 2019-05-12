@@ -1,13 +1,13 @@
 ## Sitong Li
 #### Master Student
 
-[Department of Computing Science, University of Alberta](http://cs.ualberta.ca).
+[Department of Computing Science, Western University](https://www.csd.uwo.ca/).
 London, ON
-Canada, T6G 2E8.
-Email: cgao3 AT ualberta.ca
+Canada, N6A 3K7.
+Email: sli2232 AT uwo.ca
 
 ### Biography
-I am a PhD student at the Department of Computing Science, co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
+I am a Master student at the Department of Computing Science. 
 
 I received my M.S. degree in 2015 from the [Department of Computer Science and Technology from University of Science and Technology of China](http://cs.ustc.edu.cn), where I worked at [USTC-Birmingam Joint Research Institute in Intelligent Computation and Its Applications](http://ubri.ustc.edu.cn/).
 
@@ -18,7 +18,10 @@ I have a wide interest in various aspects of Artificial Intelligence and Operati
 ### [WHY the game of Hex](./WhyHex.md)
 
 ### Programming Skills
-Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
+Programming Language: Python, Java, Matlab, R, SQL.
+Tools: Apache Hadoop, MongoDB, Kiabana, SPSS, Adode Illustrator, Origin.
+Interests: Algorithm, Running.
+Mathematics: Probability, Linear Algebra, Calculus, Statistics, Stochastic Process.
 
 ### Competition Awards
  - 2017 Computer Olympiad, Hex Tournament **Champion**. 
