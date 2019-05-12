@@ -1,5 +1,5 @@
-## Chao Gao 
-#### Ph.D Student
+## Sitong Li
+#### Master Student
 
 [Department of Computing Science, University of Alberta](http://cs.ualberta.ca).
 London, ON
