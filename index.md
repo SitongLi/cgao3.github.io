@@ -2,7 +2,7 @@
 #### Ph.D Student
 
 [Department of Computing Science, University of Alberta](http://cs.ualberta.ca).
-Edmonton, Alberta
+London, ON
 Canada, T6G 2E8.
 Email: cgao3 AT ualberta.ca
 
