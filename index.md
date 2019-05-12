@@ -7,23 +7,16 @@ Canada, N6A 3K7.
 Email: sli2232 AT uwo.ca
 
 ### Biography
-I am a Master student at the Department of Computing Science. 
+I am currently a Master student at Computing Science Department of Western University, and I will graduate in Sep. 2019.
 
-I received my M.S. degree in 2015 from the [Department of Computer Science and Technology from University of Science and Technology of China](http://cs.ustc.edu.cn), where I worked at [USTC-Birmingam Joint Research Institute in Intelligent Computation and Its Applications](http://ubri.ustc.edu.cn/).
-
-
-### Research 
-I have a wide interest in various aspects of Artificial Intelligence and Operations Research.  
-
-### [WHY the game of Hex](./WhyHex.md)
+I was major in Neuroscience prior transferring to Computer Science at University of Science and Technology of China (https://en.ustc.edu.cn/).
 
 ### Programming Skills
 Programming Language: Python, Java, Matlab, R, SQL.
 
-### Tools
+### Project Experience
 
-
-### Publications 
+### Teaching Experience
 
 + UAlberta
     + Chao Gao, Siqi Yan, Ryan Hayward, Martin Mueller. [A transferable neural network for Hex](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/2018-cg-transferable-network.pdf) CG2018. **At 21st Computer Olympiad, our program MoHex3HNN based on three-head net and transfer learning (128 filters per layer, 10 residual blocks, iteratively trained on ~0.4 million self-play generated games) won 11x11 and 13x13 Hex tournaments against DeepEzo from Japan.** DeepEzo was trained using minimax search based RL for several millions of games. Note that in comparison to MoHex3HNN and DeepEzo, previous champion program MoHex 2.0 is now a weak baseline. See report [Hex 2018: MoHex3HNN over DeepEzo](http://webdocs.cs.ualberta.ca/~hayward/papers/taiwan18.pdf)
@@ -38,7 +31,7 @@ Programming Language: Python, Java, Matlab, R, SQL.
 
     + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf),  [source code](./posts/OR/scp.zip).
 
-### Academic Services
+### Other Experience
 - Reviewer of [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research/)
    - I was recongnized as an outstanding reviewer, [certificate](OutstandingReviewerEJOR.pdf).
 - PC member [IJCAI-ECAI 2018](https://www.ijcai-18.org/).
