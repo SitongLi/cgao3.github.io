@@ -32,13 +32,11 @@ Programming Language: Python, Java, Matlab, R, SQL.
     + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf),  [source code](./posts/OR/scp.zip).
 
 ### Other Experience
-- Assistant in [Interna Journal of Operational Research](https://isa.ustc.edu.cn/xs/main.asp)
-   - I was recongnized as an outstanding reviewer, [certificate](OutstandingReviewerEJOR.pdf).
-- PC member [IJCAI-ECAI 2018](https://www.ijcai-18.org/).
-   - I was recongnized as a [distinguished reviewer](https://www.ijcai-18.org/distinguished-members/).  
-- PC member [IJCAI 2019](https://ijcai19.org/).
-
-
+- Volunteer Assistant of [Career Center of USTC](https://www.job.ustc.edu.cn/) from Sep. 2015 to Sep. 2016.
+- Assistant in [Interna Student Association of USTC](https://isa.ustc.edu.cn/xs/main.asp) from Oct. 2013 to Sep. 2015.
+   - Received Outstanding Volunteer Award of 2014 and 2015.
+- External Vice President in Graduate Union of USTC [Graduate Union of USTC](http://gradunion.ustc.edu.cn/) from Apr. 2012 to Aug. 2013.
+   - Received Excellent Students’ Cadre of 2012.  
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
 
