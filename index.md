@@ -42,14 +42,11 @@ I was major in Neuroscience prior transferring to Computer Science at [Universit
    - Received Excellent Students’ Cadre of 2012.  
 
 ### Researches
-+ Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, Sitong Li, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits
++ Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, *Sitong Li*, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits
 and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
-+ Sitong Li, Zonghui Shan, Hanxiao Liu, Yupeng Yang. Early maternal deprivation
++ *Sitong Li*, Zonghui Shan, Hanxiao Liu, Yupeng Yang. Early maternal deprivation
 shifts critical period for ocular dominance plasticity in mouse visual cortex. Under
 preparation.
-+ Sitong Li, Bing Cao, Lei Niu, Hong Zhu, Yupeng Yang, Yifeng Zhou. Alterations of
-short-term synaptic plasticity in the visual cortex in adult rats prenatally exposed to
-morphine. Under preparation.
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
 
 </script>
