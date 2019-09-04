@@ -42,12 +42,8 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
    - Received Excellent Students’ Cadre of 2012.  
 
 ### **Researches**
-+ Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits
-and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
-+ **Sitong Li**, Zonghui Shan, Hanxiao Liu, Yupeng Yang. Early maternal deprivation
-shifts critical period for ocular dominance plasticity in mouse visual cortex. Under
-preparation.
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
-
++ Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
++ [A Study on Deep Convolution Neural Networks for Salient Object Detection](./A Study on Deep Convolution Neural Networks for Salient Object Detection.pdf)
++ [Recent Advances in N-linked Glycoproteomics.pdf](./Recent Advances in N-linked Glycoproteomics.pdf)
 </script>
 
