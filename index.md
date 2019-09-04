@@ -43,7 +43,7 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
 
 ### **Researches**
 + Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
-+ [A Study on Deep Convolution Neural Networks for Salient Object Detection](./A Study on Deep Convolution Neural Networks for Salient Object Detection.pdf)
-+ [Recent Advances in N-linked Glycoproteomics.pdf](./Recent Advances in N-linked Glycoproteomics.pdf)
++ [A Study on Deep Convolution Neural Networks for Salient Object Detection](./project/SOD.pdf)
++ [Recent Advances in N-linked Glycoproteomics.pdf](./project/Glycoproteomics.pdf)
 </script>
 
