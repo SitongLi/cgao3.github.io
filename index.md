@@ -1,5 +1,5 @@
 ## **Sitong Li**
-London, ON, Canada, N6A 3K7.
+Edmonton, AB, Canada, T6G 0T9.
 Email: sli2232 AT uwo.ca
 
 ### **Biography**
