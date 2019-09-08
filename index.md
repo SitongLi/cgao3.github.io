@@ -35,11 +35,9 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
    - Teaching Assistant (TA) of Physiology and Neurobiology Experiment and Design from Sep. 2013 to Feb. 2014.
 
 ### **Other Experience**
-- Volunteer Assistant of [Career Center of USTC](https://www.job.ustc.edu.cn/) from Sep. 2015 to Sep. 2016.
-- Assistant in [Interna Student Association of USTC](https://isa.ustc.edu.cn/xs/main.asp) from Oct. 2013 to Sep. 2015.
-   - Received Outstanding Volunteer Award of 2014 and 2015.
-- External Vice President in Graduate Union of USTC [Graduate Union of USTC](http://gradunion.ustc.edu.cn/) from Apr. 2012 to Aug. 2013.
-   - Received Excellent Students’ Cadre of 2012.  
+- Sep. 2015- Sep. 2016: Volunteer Assistant of [Career Center of USTC](https://www.job.ustc.edu.cn/).
+- Oct. 2013- Sep. 2015: Worded as assistant in [International Student Association of USTC](https://isa.ustc.edu.cn/xs/main.asp) and received Outstanding Volunteer Award of both 2014 and 2015.
+- Apr. 2012- Aug. 2013: Worked for Graduate Union of USTC [Graduate Union of USTC](http://gradunion.ustc.edu.cn/) and received Excellent Students’ Cadre of 2012.  
 
 ### **Researches**
 + Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
