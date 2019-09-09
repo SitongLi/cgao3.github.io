@@ -34,7 +34,7 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
 - Oct. 2013- Sep. 2015: Worded as assistant in [International Student Association of USTC](https://isa.ustc.edu.cn/xs/main.asp) and received Outstanding Volunteer Award of both 2014 and 2015.
 - Apr. 2012- Aug. 2013: Worked for Graduate Union of USTC [Graduate Union of USTC](http://gradunion.ustc.edu.cn/) and received Excellent Students’ Cadre of 2012.  
 
-### **Researches**
+### **Research**
 + Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
 + [A Study on Deep Convolution Neural Networks for Salient Object Detection](./project/SOD.pdf)
 + [Recent Advances in N-linked Glycoproteomics](./project/Glycoproteomics.pdf)
