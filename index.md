@@ -3,7 +3,7 @@ Edmonton, AB, Canada, T6G 0T9.
 Email: sli2232 AT uwo.ca
 
 ### **Biography**
-I am currently a Master student at [Department of Computing Science, Western University](https://www.csd.uwo.ca/), and I will graduate in Sep. 2019.
+I am currently a Master student at [Department of Computing Science, Western University](https://www.csd.uwo.ca/), and I will graduate in Oct. 2019.
 
 I was majoring in Neuroscience prior transferring to Computer Science at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
