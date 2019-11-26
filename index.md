@@ -16,10 +16,7 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
 ### **Project Experience**
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview/)
    - Applied series of data cleaning, visualization, model selection and ensembling.
-   - Achieved top 7% out of all participants. 
-- [Learn Same-Different Visual Relation through Prior Knowledge](https://www.idiap.ch/~fleuret/svrt/)
-   - Constructed a transfer learning model with pre-trained VGG-16, which only achieved chance-level predictive performance on new tasks.
-   - Combined the pre-trained VGG model and a prossesive retraining process together, achieving performance comparable to human's performance.   
+   - Achieved top 7% out of all participants.   
 - [Twitter sentimental analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2/overview)
    - Constructed a series of machine learning models (naive bayes, maximum entropy, random forest, SVM, etc.), trained and tested them on twitter dataset.
 
@@ -36,8 +33,4 @@ I was majoring in Neuroscience prior transferring to Computer Science at [Univer
 
 ### **Research Experience**
 + Yue Li, Laijian Wang, Xinxin Zhang, Menyao Huang, **Sitong Li**, Xingxing Wang, Lin Chen, Bin Jiang&Yupeng Yang. [Inhibition of Cdk5 rejuvenates inhibitory circuits and restores experience-dependent plasticity in adult visual cortex](https://www.sciencedirect.com/science/article/pii/S0028390817304823). Neuropharmacology 128 (2018): 207-220. 
-+ [A Study on Deep Convolution Neural Networks for Salient Object Detection](./project/SOD.pdf)
-+ [Recent Advances in N-linked Glycoproteomics](./project/Glycoproteomics.pdf)
-+ [Tree Alignment: Algorithms and Applications](./project/TreeA.pdf)
-+ [A Survey on Algorithms for Computing Distributed Minimum Spanning Tree](./project/DMinSTree.pdf)
 
