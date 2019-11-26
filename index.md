@@ -3,7 +3,7 @@ Edmonton, AB, Canada, T6G 0T9.
 Email: sli2232 AT uwo.ca
 
 ### **Biography**
-I just graduated with a Master degree in Computer Science at [Department of Computing Science, Western University](https://www.csd.uwo.ca/), and I will graduate in Oct. 2019.
+I just graduated with a Master degree in Computer Science at [Department of Computing Science, Western University](https://www.csd.uwo.ca/).
 
 I was majoring in Neuroscience at [University of Science and Technology of China](https://en.ustc.edu.cn/) prior transferring to Computer Science.
 
