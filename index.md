@@ -1,5 +1,5 @@
 ## **Sitong Li**
-Edmonton, AB, Canada, T6G 0T9.
+Edmonton, AB, Canada, T6G 0T9
 Email: sli2232 AT uwo.ca
 
 CV: [Click the link to view CV](./project/Resume_SitongLi.pdf)
