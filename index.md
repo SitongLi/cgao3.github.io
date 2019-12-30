@@ -1,7 +1,7 @@
 ## **Sitong Li**
 Edmonton, AB, Canada, T6G 0T9.
 Email: sli2232 AT uwo.ca
-CV: sitongli.github.io/project/Glycoproteomics.pdf
+CV: [Click the link to view CV](./project/Resume_SitongLi.pdf)
 
 ### **Biography**
 I just graduated with a Master degree in Computer Science at [Department of Computing Science, Western University](https://www.csd.uwo.ca/).
