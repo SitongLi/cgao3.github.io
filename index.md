@@ -2,7 +2,7 @@
 Edmonton, AB, Canada, T6G 0T9
 Email: sli2232 AT uwo.ca
 
-CV: [Click the link to see my CV](./project/Resume_SitongLi.pdf)
+CV: [Click the link to see my CV](./project/Resume_Sitong.pdf)
 
 ### **Biography**
 I just graduated with a Master degree in Computer Science at [Department of Computing Science, Western University](https://www.csd.uwo.ca/).
